@@ -1,7 +1,7 @@
-🔍 Paisabazaar Banking Fraud Analysis
+**🔍 Paisabazaar Banking Fraud Analysis**
 A data-driven project aimed at identifying and analyzing fraudulent banking activities using transaction-level data. This project utilizes exploratory data analysis (EDA) and machine learning techniques to detect patterns and anomalies that could indicate financial fraud on the Paisabazaar platform.
 
-📊 Project Objective
+**📊 Project Objective**
 The main objectives of this project are:
 
 To detect potential fraudulent transactions.
